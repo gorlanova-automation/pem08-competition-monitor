@@ -836,3 +836,4 @@ input[type="text"]::placeholder {
     flex-shrink: 0;
 }
 
+[hidden] { display: none !important; }

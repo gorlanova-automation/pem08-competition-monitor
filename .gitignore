@@ -1,0 +1,31 @@
+# Python
+.env
+.env.*
+!env.example.txt
+!*.example
+history.json
+_local.py
+_audit_local.py
+*.log
+evidence/unit_tests.txt
+__pycache__/
+*.py[cod]
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Builds / binaries
+dist/
+build/
+*.exe
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "id": "c853f879-1f0c-486b-b474-51502fe3ffca",
+      "timestamp": "2026-10-28T06:49:12.275659",
+      "request_type": "parse",
+      "request_summary": "URL: https://n8n.io/",
+      "response_summary": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STAR"
+    },
+    {
+      "id": "4e6afa8d-65a4-4223-ae45-1d9dbbf7a8bd",
+      "timestamp": "2026-10-28T06:49:07.459296",
+      "request_type": "image",
+      "request_summary": "Изображение: zapier.jpg",
+      "response_summary": "Первый экран сайта Zapier содержит приветственное сообщение, призывающее пользователей начать работу с платформой. Основной акцент сделан на кнопках 'Get started free with Google' и 'Sign up', а также"
+    },
+    {
+      "id": "a6c61eb3-87ef-42c7-ba02-241ea491b3a5",
+      "timestamp": "2026-10-28T06:49:03.212484",
+      "request_type": "text",
+      "request_summary": "Источник: https://zapier.com/\nДата: 2026-10-28T05:38:47.903Z\nZapier: Automate AI Workflows, Agents, ...",
+      "response_summary": "Zapier предлагает мощные инструменты для автоматизации рабочих процессов с поддержкой множества AI решений и приложений."
+    },
+    {
+      "id": "44178753-7c31-421f-8308-d5c220082a52",
+      "timestamp": "2026-10-28T06:48:59.577337",
+      "request_type": "image",
+      "request_summary": "Изображение: make.jpg",
+      "response_summary": "Первый экран содержит заголовок, подзаголовок и кнопку призыва к действию. Заголовок выделен крупным шрифтом, подзаголовок объясняет функциональность платформы. Кнопка 'Try it free' заметна и привлека"
+    },
+    {
+      "id": "0270edab-0aae-4512-b66a-cfeaf0be30cd",
+      "timestamp": "2026-10-28T06:48:54.176235",
+      "request_type": "text",
+      "request_summary": "Источник: https://www.make.com/\nДата: 2026-10-28T05:38:39.002Z\nAI Workflow Automation Software & Too...",
+      "response_summary": "Платформа Make предлагает мощные инструменты для автоматизации и интеграции, позволяя пользователям легко создавать и управлять AI агентами и рабочими процессами."
+    },
+    {
+      "id": "4741ea39-7f13-435e-871e-4c72956775ec",
+      "timestamp": "2026-10-28T06:48:49.773983",
+      "request_type": "image",
+      "request_summary": "Изображение: n8n.jpg",
+      "response_summary": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STARTED'. Также присутствует текст о использовании файлов cookie и поле для ввода с вопросом 'When and w"
+    },
+    {
+      "id": "9cacafb9-9a1d-493d-8e17-8aa6c117d5eb",
+      "timestamp": "2026-10-28T06:48:43.676222",
+      "request_type": "text",
+      "request_summary": "Источник: https://n8n.io/\nДата: 2026-10-28T05:38:29.163Z\nAI Workflow Automation Platform - n8n\nBuild...",
+      "response_summary": "n8n предлагает мощную платформу для автоматизации рабочих процессов с акцентом на прозрачность и интеграцию с различными инструментами."
+    },
+    {
+      "id": "8e41f44d-bd26-4907-94d7-5a805de4ab7c",
+      "timestamp": "2026-10-28T06:44:47.568533",
+      "request_type": "image",
+      "request_summary": "Изображение: make.jpg",
+      "response_summary": "Первый экран содержит заголовок, подзаголовок и кнопку для принятия куки. Заголовок выделен крупным шрифтом, подзаголовок — меньшим. Кнопки имеют яркий цвет, что привлекает внимание."
+    },
+    {
+      "id": "cc349f15-c2d2-41f9-b5f3-112b502e44e4",
+      "timestamp": "2026-10-28T06:43:08.273052",
+      "request_type": "text",
+      "request_summary": "Источник: https://n8n.io/\nДата: 2026-10-28T05:38:29.163Z\nAI Workflow Automation Platform - n8n\nBuild...",
+      "response_summary": "n8n предлагает мощную платформу для автоматизации рабочих процессов с акцентом на интеграцию и контроль действий AI."
+    },
+    {
+      "id": "cec428cb-f901-4ca8-9876-be90a373be98",
+      "timestamp": "2026-10-28T06:42:45.810019",
+      "request_type": "parse",
+      "request_summary": "URL: https://n8n.io/",
+      "response_summary": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STAR"
+    }
+  ],
+  "total": 10
+}

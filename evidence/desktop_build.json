@@ -1,0 +1,9 @@
+{
+  "name": "competitionmonitor.exe",
+  "bytes": 39693386,
+  "sha256": "2737AD77C64A5F5D1318DDB859B858236CAACFBB187405C8CD5DAC5805E26289",
+  "pyqt": "6.7.1",
+  "qt": "6.7.3",
+  "smoke_exit_code": 0,
+  "scope": "offscreen component startup and backend health; not full manual GUI test"
+}

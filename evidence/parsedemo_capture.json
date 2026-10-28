@@ -1,0 +1,36 @@
+{
+  "source": "n8n",
+  "type": "parse_capture",
+  "http": 200,
+  "seconds": 4.82,
+  "response": {
+    "success": true,
+    "data": {
+      "url": "https://n8n.io/",
+      "title": "AI Workflow Automation Platform - n8n",
+      "h1": "Build the agent. Understand its workflow.\nBuild the agent.\nUnderstand its workflow.",
+      "first_paragraph": "AI Workflow Automation Platform - n8n\nn8n.io\nPRODUCT\nUSE CASES\nDOCS\nCOMMUNITY\nENTERPRISE\nPRICING\nSIGN IN\nGET STARTED\n\nSee llms.txt for all machine-readable content.\n\nBuild the agent. Understand its workflow.\nBuild the agent.\nUnderstand its workflow.\n\nn8n is the platform for agents and workflows you can follow. \nOpen any step, see what it does, and explain to anyone who runs it.\n\nGET STARTED\nTALK TO SALES\n\nWhen a refund requ\n\nPROCESS INVOICE\nKNOWLEDGE ASSISTANT\nDAILY NEWS DIGEST\n\nTrusted by Fortune 500 companies to build smarter workflows. \n\nMARK, IT\nDEBORAH, SECURITY\nOLU, DEVOPS\nALIX, SALES\nHow Mark automated new user onboarding\n\nNew hires get instant access to Slack, Jira, Notion, and more, all in one workflow.\n\nSee how Mark did it\n\nTop 50 Github project with 208.7k stars\n\nRated 4.7/5 from real users on G2\n\nJoin 250k+ developers in our community\n\nThe USB-C for your AI stack\n\nConnect n8n to just about any tool you can think of. 500+ native integrations. \nAny API via HTTP. Any agent or coding assistant via MCP.\n\nSee + understand\n+ trust your agents\n\nConnect any model, see every decision, and add human approval when needed.\n\nFull visibility across agents \n\nWatch agents work live, or open any past run, all inside the same workflow.\n\nPut rules around AI actions\nSelf-host your AI stack\nBuilt by you +\nreadable by anyone\n\nCreate workflows anyone can follow with a visual builder and dr",
+      "analysis": {
+        "strengths": [
+          "Привлекательный заголовок, который акцентирует внимание на функциональности продукта.",
+          "Кнопка 'GET STARTED' выделяется и призывает к действию.",
+          "Использование текстового поля может повысить вовлеченность пользователей."
+        ],
+        "weaknesses": [],
+        "unique_offers": [],
+        "recommendations": [
+          "Увеличить контраст текста для улучшения читаемости.",
+          "Добавить анимацию для интерактивных элементов.",
+          "Рассмотреть возможность добавления дополнительных визуальных подсказок для пользователей."
+        ],
+        "summary": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STARTED'. Также присутствует текстовое поле для ввода с подсказкой 'Where and when'. Визуальный стиль включает светлый фон с точками и элементы в розовом и черном цветах.",
+        "design_score": 6,
+        "animation_potential": "Добавление анимации при вводе текста в поле может сделать интерфейс более интерактивным.",
+        "evidence_limitations": "Невозможно оценить функциональность сайта или его конверсию на основе только первого экрана."
+      },
+      "error": null,
+      "collection_method": "capture"
+    },
+    "error": null
+  }
+}

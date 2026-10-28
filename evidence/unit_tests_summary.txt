@@ -1,0 +1,9 @@
+test_capture_returns_actual_jpeg (test_project.ProjectTests.test_capture_returns_actual_jpeg) ... --- Logging error ---
+ok
+test_design_score_bounds (test_project.ProjectTests.test_design_score_bounds) ... ok
+test_empty_json_is_not_success (test_project.ProjectTests.test_empty_json_is_not_success) ... ok
+test_invalid_upload_does_not_call_model (test_project.ProjectTests.test_invalid_upload_does_not_call_model) ... --- Logging error ---
+ok
+test_parser_rejects_internal_url (test_project.ProjectTests.test_parser_rejects_internal_url) ... ok
+Ran 5 tests in 0.700s
+OK

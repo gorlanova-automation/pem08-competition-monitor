@@ -1,0 +1,216 @@
+[
+  {
+    "source": "n8n",
+    "type": "text",
+    "http": 200,
+    "seconds": 4.78,
+    "response": {
+      "success": true,
+      "analysis": {
+        "strengths": [
+          "Поддержка более 500 нативных интеграций.",
+          "Полная видимость работы агентов и возможность просмотра прошлых запусков.",
+          "Визуальный редактор для создания понятных рабочих процессов."
+        ],
+        "weaknesses": [],
+        "unique_offers": [
+          "Возможность самохостинга AI-стека.",
+          "Поддержка подключения любых API через HTTP.",
+          "Четкое объяснение действий агентов для пользователей."
+        ],
+        "recommendations": [
+          "Добавить больше примеров использования на главной странице.",
+          "Уточнить информацию о тарифах и вариантах подписки.",
+          "Включить отзывы пользователей для повышения доверия."
+        ],
+        "summary": "n8n предлагает мощную платформу для автоматизации рабочих процессов с акцентом на прозрачность и интеграцию с различными инструментами.",
+        "design_score": null,
+        "animation_potential": "Использовать анимацию для демонстрации работы агентов в реальном времени, чтобы визуализировать их действия и взаимодействия.",
+        "evidence_limitations": "Невозможно оценить качество интерфейса или пользовательского опыта на основе только текстового описания."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "n8n",
+    "type": "image",
+    "http": 200,
+    "seconds": 4.95,
+    "response": {
+      "success": true,
+      "analysis": {
+        "description": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STARTED'. Также присутствует текстовое поле для ввода с подсказкой 'Where and when'. Визуальный стиль включает светлый фон с точечным узором и акцентные элементы в розовом цвете.",
+        "marketing_insights": [
+          "Четкое и лаконичное сообщение о назначении продукта.",
+          "Призыв к действию выделен, что может повысить вовлеченность пользователей.",
+          "Использование текстового поля может привлечь внимание к интерактивным элементам."
+        ],
+        "visual_style_score": 7,
+        "visual_style_analysis": "Использование контрастных цветов и простого шрифта делает текст читаемым. Однако фон с точками может отвлекать от основного контента.",
+        "recommendations": [
+          "Упростить фон для улучшения фокуса на тексте.",
+          "Добавить визуальные подсказки для текстового поля.",
+          "Использовать более яркие акценты для кнопок, чтобы они выделялись на фоне."
+        ],
+        "design_score": 6,
+        "animation_potential": "Добавление анимации при наведении на кнопку 'GET STARTED' для повышения интерактивности.",
+        "evidence_limitations": "Невозможно оценить эффективность дизайна без анализа пользовательского поведения и взаимодействия с сайтом."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "make",
+    "type": "text",
+    "http": 200,
+    "seconds": 4.51,
+    "response": {
+      "success": true,
+      "analysis": {
+        "strengths": [
+          "Широкие возможности интеграции с более чем 3500 приложениями.",
+          "Поддержка создания автоматизаций с использованием AI агентов.",
+          "Интуитивно понятный визуальный интерфейс для построения рабочих процессов."
+        ],
+        "weaknesses": [],
+        "unique_offers": [
+          "Возможность настройки автоматизаций с помощью JavaScript или Python.",
+          "Отсутствие ограничения по времени на бесплатном плане.",
+          "Поддержка работы с популярными AI моделями, такими как Claude и ChatGPT."
+        ],
+        "recommendations": [
+          "Добавить больше примеров успешного использования платформы.",
+          "Уточнить информацию о поддерживаемых AI моделях и их возможностях.",
+          "Предоставить больше деталей о безопасности и управлении доступом."
+        ],
+        "summary": "Платформа Make предлагает мощные инструменты для автоматизации и интеграции, позволяя пользователям легко создавать и управлять рабочими процессами с использованием AI.",
+        "design_score": null,
+        "animation_potential": "Добавить анимацию, показывающую процесс создания автоматизации в реальном времени, чтобы продемонстрировать простоту использования.",
+        "evidence_limitations": "Невозможно оценить качество сервиса или пользовательский опыт на основе только текстового материала."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "make",
+    "type": "image",
+    "http": 200,
+    "seconds": 4.85,
+    "response": {
+      "success": true,
+      "analysis": {
+        "description": "На первом экране представлено сообщение о куки с двумя кнопками для выбора: 'Accept Only Necessary' и 'Accept All Cookies'. Также имеется текст, объясняющий использование данных.",
+        "marketing_insights": [
+          "Прозрачность в использовании данных может повысить доверие пользователей.",
+          "Наличие выбора для пользователей может улучшить пользовательский опыт."
+        ],
+        "visual_style_score": 7,
+        "visual_style_analysis": "Цветовая палитра включает фиолетовые и белые тона, что создает современный и чистый вид. Текст хорошо читается, но может быть улучшен контраст.",
+        "recommendations": [
+          "Увеличить контраст текста для улучшения читаемости.",
+          "Рассмотреть возможность добавления анимации для привлечения внимания к важным элементам."
+        ],
+        "design_score": 6,
+        "animation_potential": "Добавление анимации при появлении сообщения о куки может сделать интерфейс более динамичным.",
+        "evidence_limitations": "Невозможно оценить взаимодействие пользователей с элементами интерфейса или их поведение на сайте."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "zapier",
+    "type": "text",
+    "http": 200,
+    "seconds": 3.9,
+    "response": {
+      "success": true,
+      "analysis": {
+        "strengths": [
+          "Поддержка более 230 AI инструментов.",
+          "Интеграция с более чем 9000 приложениями.",
+          "Гранулярные разрешения для управления доступом."
+        ],
+        "weaknesses": [],
+        "unique_offers": [
+          "Возможность запуска рабочих процессов в любимых AI инструментах.",
+          "Автоматическое восстановление рабочих процессов.",
+          "Поддержка сложной логики в автоматизации."
+        ],
+        "recommendations": [
+          "Добавить больше примеров использования на главной странице.",
+          "Уточнить информацию о ценах и тарифах.",
+          "Предоставить больше деталей о безопасности и конфиденциальности данных."
+        ],
+        "summary": "Zapier предлагает мощные инструменты для автоматизации рабочих процессов с поддержкой множества AI решений и приложений.",
+        "design_score": null,
+        "animation_potential": "Добавить анимацию, показывающую процесс создания рабочего процесса в реальном времени.",
+        "evidence_limitations": "Невозможно оценить пользовательский опыт или визуальные элементы дизайна на основе только текстового описания."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "zapier",
+    "type": "image",
+    "http": 200,
+    "seconds": 4.66,
+    "response": {
+      "success": true,
+      "analysis": {
+        "description": "Первый экран сайта Zapier содержит приветственное сообщение, призывающее пользователей начать работу с платформой. Основной акцент сделан на кнопках 'Start free with Google' и 'Sign up', а также на уведомлении о исправлении проблемы с поддержкой.",
+        "marketing_insights": [
+          "Приветственное сообщение создает положительное первое впечатление.",
+          "Кнопки регистрации выделены, что может повысить конверсию.",
+          "Уведомление о исправлении проблемы демонстрирует активное внимание к пользователям."
+        ],
+        "visual_style_score": 7,
+        "visual_style_analysis": "Цветовая палитра и шрифты хорошо сочетаются, однако контраст между текстом и фоном местами недостаточен.",
+        "recommendations": [
+          "Увеличить контраст текста для улучшения читаемости.",
+          "Добавить анимацию для кнопок, чтобы сделать интерфейс более интерактивным.",
+          "Убедиться, что уведомления о проблемах не отвлекают от основного призыва к действию."
+        ],
+        "design_score": 6,
+        "animation_potential": "Добавление анимации при наведении на кнопки может улучшить взаимодействие.",
+        "evidence_limitations": "Невозможно оценить эффективность анимации или скрытых элементов на странице."
+      },
+      "error": null
+    }
+  },
+  {
+    "source": "n8n",
+    "type": "parse_capture",
+    "http": 200,
+    "seconds": 4.54,
+    "response": {
+      "success": true,
+      "data": {
+        "url": "https://n8n.io/",
+        "title": "AI Workflow Automation Platform - n8n",
+        "h1": "Build the agent. Understand its workflow.\nBuild the agent.\nUnderstand its workflow.",
+        "first_paragraph": "AI Workflow Automation Platform - n8n\nn8n.io\nPRODUCT\nUSE CASES\nDOCS\nCOMMUNITY\nENTERPRISE\nPRICING\nSIGN IN\nGET STARTED\n\nSee llms.txt for all machine-readable content.\n\nBuild the agent. Understand its workflow.\nBuild the agent.\nUnderstand its workflow.\n\nn8n is the platform for agents and workflows you can follow. \nOpen any step, see what it does, and explain to anyone who runs it.\n\nGET STARTED\nTALK TO SALES\n\nWhen a refund requ\n\nPROCESS INVOICE\nKNOWLEDGE ASSISTANT\nDAILY NEWS DIGEST\n\nTrusted by Fortune 500 companies to build smarter workflows. \n\nMARK, IT\nDEBORAH, SECURITY\nOLU, DEVOPS\nALIX, SALES\nHow Mark automated new user onboarding\n\nNew hires get instant access to Slack, Jira, Notion, and more, all in one workflow.\n\nSee how Mark did it\n\nTop 50 Github project with 208.7k stars\n\nRated 4.7/5 from real users on G2\n\nJoin 250k+ developers in our community\n\nThe USB-C for your AI stack\n\nConnect n8n to just about any tool you can think of. 500+ native integrations. \nAny API via HTTP. Any agent or coding assistant via MCP.\n\nSee + understand\n+ trust your agents\n\nConnect any model, see every decision, and add human approval when needed.\n\nFull visibility across agents \n\nWatch agents work live, or open any past run, all inside the same workflow.\n\nPut rules around AI actions\nSelf-host your AI stack\nBuilt by you +\nreadable by anyone\n\nCreate workflows anyone can follow with a visual builder and dr",
+        "analysis": {
+          "strengths": [
+            "Простой и понятный заголовок, который сразу объясняет цель продукта.",
+            "Кнопка 'GET STARTED' выделяется на фоне, что может привлечь внимание пользователей.",
+            "Текстовое поле с подсказкой может стимулировать взаимодействие с пользователем."
+          ],
+          "weaknesses": [],
+          "unique_offers": [],
+          "recommendations": [
+            "Увеличить контраст между текстом и фоном для улучшения читаемости.",
+            "Добавить визуальные подсказки или анимации для повышения вовлеченности.",
+            "Упростить фон, чтобы он не отвлекал от основного контента."
+          ],
+          "summary": "Первый экран сайта содержит заголовок 'Build the agent. Understand its workflow.' и кнопку 'GET STARTED'. Также присутствует текстовое поле для ввода с подсказкой 'When and where'. Визуальный стиль включает светлый фон с точками и элементы в розовом и черном цветах.",
+          "design_score": 6,
+          "animation_potential": "Добавление анимации при наведении на кнопку 'GET STARTED' для повышения интерактивности.",
+          "evidence_limitations": "Невозможно оценить эффективность элементов, таких как текстовое поле и кнопка, без анализа поведения пользователей."
+        },
+        "error": null,
+        "collection_method": "capture"
+      },
+      "error": null
+    }
+  }
+]

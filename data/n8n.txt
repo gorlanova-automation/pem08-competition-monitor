@@ -1,0 +1,73 @@
+Источник: https://n8n.io/
+Дата: 2026-10-28T05:38:29.163Z
+AI Workflow Automation Platform - n8n
+Build the agent. Understand its workflow.
+Build the agent.
+Understand its workflow.
+AI Workflow Automation Platform - n8n
+n8n.io
+PRODUCT
+USE CASES
+DOCS
+COMMUNITY
+ENTERPRISE
+PRICING
+SIGN IN
+GET STARTED
+
+See llms.txt for all machine-readable content.
+
+Build the agent. Understand its workflow.
+Build the agent.
+Understand its workflow.
+
+n8n is the platform for agents and workflows you can follow. 
+Open any step, see what it does, and explain to anyone who runs it.
+
+GET STARTED
+TALK TO SALES
+
+When a refund requ
+
+PROCESS INVOICE
+KNOWLEDGE ASSISTANT
+DAILY NEWS DIGEST
+
+Trusted by Fortune 500 companies to build smarter workflows. 
+
+MARK, IT
+DEBORAH, SECURITY
+OLU, DEVOPS
+ALIX, SALES
+How Mark automated new user onboarding
+
+New hires get instant access to Slack, Jira, Notion, and more, all in one workflow.
+
+See how Mark did it
+
+Top 50 Github project with 208.7k stars
+
+Rated 4.7/5 from real users on G2
+
+Join 250k+ developers in our community
+
+The USB-C for your AI stack
+
+Connect n8n to just about any tool you can think of. 500+ native integrations. 
+Any API via HTTP. Any agent or coding assistant via MCP.
+
+See + understand
++ trust your agents
+
+Connect any model, see every decision, and add human approval when needed.
+
+Full visibility across agents 
+
+Watch agents work live, or open any past run, all inside the same workflow.
+
+Put rules around AI actions
+Self-host your AI stack
+Built by you +
+readable by anyone
+
+Create workflows anyone can follow with a visual builder and dr
